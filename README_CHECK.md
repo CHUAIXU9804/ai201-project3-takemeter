@@ -110,7 +110,7 @@ Each post was assigned exactly one label based on its primary communication inte
 
 **I am so new and so dumb**
 
-Hey guys. Not new to video games but brand new to BG and also turn based style games. (Started my first DND campaign a few months ago, so I know a tiny bit about that part!) I am loving the game so far but there's so much content and so many options that I keep getting side tracked, confused, and beaten by enemies I'm not good enough to beat yet. This will probably sound dumb, but is there a guide available for newbies that is really simple and straightforward? For example, I'm currently working on the issue of the Grove and freeing the people there, which led me to the swamps, which led me to the teahouse, which led me to Aunty, which led me to that whole situation (trying not to give any spoliers) and I can't win that battle yet so I spent a bunch of time on it and then realized I probably don't even need to deal with that right now to continue on with the quest I was working on🤦🏻‍♀️ I want to eventually do a playthrough where I do absolutely everything in this game, I love all the content, but I'm finding it a bit overwhelming as a newbie, mostly because I need better skills to be able to beat some of the enemies I encounter which leads to me avoiding certain things. So if there is a guide that can help really new players and kind of "explains like I'm five", that would be awesome. Thank you in advance!
+>!Hey guys. Not new to video games but brand new to BG and also turn based style games. (Started my first DND campaign a few months ago, so I know a tiny bit about that part!) I am loving the game so far but there's so much content and so many options that I keep getting side tracked, confused, and beaten by enemies I'm not good enough to beat yet. This will probably sound dumb, but is there a guide available for newbies that is really simple and straightforward? For example, I'm currently working on the issue of the Grove and freeing the people there, which led me to the swamps, which led me to the teahouse, which led me to Aunty, which led me to that whole situation (trying not to give any spoliers) and I can't win that battle yet so I spent a bunch of time on it and then realized I probably don't even need to deal with that right now to continue on with the quest I was working on🤦🏻‍♀️ I want to eventually do a playthrough where I do absolutely everything in this game, I love all the content, but I'm finding it a bit overwhelming as a newbie, mostly because I need better skills to be able to beat some of the enemies I encounter which leads to me avoiding certain things. So if there is a guide that can help really new players and kind of "explains like I'm five", that would be awesome. Thank you in advance!!<
 
 **Decision:**  
 A combination of experience and advice. I've determined this to be advice, because the main intention is to get advice on a guide.
@@ -121,9 +121,9 @@ A combination of experience and advice. I've determined this to be advice, becau
 
 **Killed Karlach, not for Wyll but for my party**
 
->!I'm playing on single sace tactician rn, and I met up with Karlach before progressing much in Act 1 or the grove. She asked for help killing the fake paladins of tyr, and it took several teies being a bit under-levelled but the party finally killed them all. Unfortunately, the party was on death's door and Karlach's rampage knocked down Gale and Astarion twice as we tried to leave, and killed Astarion at one point, which cost a resurrection scroll. I know the rampage happens, but I was still kinda pissed that Karlach's character was causing damage to the party and ended up killing someone. When I talkedto her afterwards, the only dialogue options available were sympathetic ones asking if she's doing alright. This pissed me off even more, cuz I had hoped I could at least say something along the lines of 'Hey, you just put your own team in danger back there' or 'That was a little intimidating to watch, can we trust that you won't be a harm to the party?' IDK something like that, but nope. You just have to pity and empathize. So I ended up killing her, justifying as the party seeing her as a crazed loose cannon. I ended up resurrecting her at camp, but no dialogue on the killing her, just an annoyed 'What.' when I speak to her. She can stay at camp and get f@&$ed by her engine for all I care, her dialogue options just feel way too limited, and the game seems to really want you, and at times force you, to take her side.!<
+>!I'm playing on single sace tactician rn, and I met up with Karlach before progressing much in Act 1 or the grove. She asked for help killing the fake paladins of tyr, and it took several teies being a bit under-levelled but the party finally killed them all. Unfortunately, the party was on death's door and Karlach's rampage knocked down Gale and Astarion twice as we tried to leave, and killed Astarion at one point, which cost a resurrection scroll. I know the rampage happens, but I was still kinda pissed that Karlach's character was causing damage to the party and ended up killing someone. When I talkedto her afterwards, the only dialogue options available were sympathetic ones asking if she's doing alright. This pissed me off even more, cuz I had hoped I could at least say something along the lines of 'Hey, you just put your own team in danger back there' or 'That was a little intimidating to watch, can we trust that you won't be a harm to the party?' IDK something like that, but nope. You just have to pity and empathize. So I ended up killing her, justifying as the party seeing her as a crazed loose cannon. I ended up resurrecting her at camp, but no dialogue on the killing her, just an annoyed 'What.' when I speak to her. She can stay at camp and get f@&$ed by her engine for all I care, her dialogue options just feel way too limited, and the game seems to really want you, and at times force you, to take her side.
 
-AITA? (I know I am)
+AITA? (I know I am)!<
 
 **Decision:**  
 A combination of advice and narrative. I've determined this to be narrative, because it involves a lot of discussion around narrative.
@@ -134,9 +134,9 @@ A combination of advice and narrative. I've determined this to be narrative, bec
 
 **Knockout**
 
-Does fainting NPC instead of killing change anything in the story?
+>!Does fainting NPC instead of killing change anything in the story?
 
-For example, I didn't kill Gortash's mother, instead I left her unconscious, does that change anything or will the game treat her as dead anyway?
+For example, I didn't kill Gortash's mother, instead I left her unconscious, does that change anything or will the game treat her as dead anyway?!<
 
 **Decision:**  
 A combination of advice and narrative. I've determined this to be narrative, because the poster is not seeking for advice, but wondering how does their action impact the story development relating to a character.
@@ -272,9 +272,9 @@ Rows = true label, columns = predicted label
 
 **Text:** Shadowheart's scar on her face
 
-I just finished the Original Shadowheart storyline, this time I saved her parents and learned the details of the night she was kidnapped from her father. But now the scar is unclear.
+>!I just finished the Original Shadowheart storyline, this time I saved her parents and learned the details of the night she was kidnapped from her father. But now the scar is unclear.
 
-Her father is a werewolf, and he was followed his daughter during the ritual to make sure she was safe. His daughter didn't recognize him and thought he was a normal wolf attacking, so her fear of wolves is understandable. But her father was in control of himself in his wolf form, and he wouldn't hurt his child. So how did she get that wound and scar?
+Her father is a werewolf, and he was followed his daughter during the ritual to make sure she was safe. His daughter didn't recognize him and thought he was a normal wolf attacking, so her fear of wolves is understandable. But her father was in control of himself in his wolf form, and he wouldn't hurt his child. So how did she get that wound and scar?!<
 
 **Analysis:** This model predicts the post as experience instead of narrative. It might be because the post is written in first person perspective and opens with a gameplay action, which structurally looks identical to an experience post. The actual content is a lore analysis of Shadowheart's backstory and a question about story consistency.
 
@@ -285,9 +285,9 @@ Her father is a werewolf, and he was followed his daughter during the ritual to 
 
 **Text:** Need motivation for act 3
 
-I get that it's a story driven game, but there's so much talk no jutsu in act 3 compared to 1 and 2. I've finished the game before but during my second playthrough and after building all party members with act2 "end game" items, all my excitement in trying out the new builds disappeared after imagining all the dialogue I have to go through for each fight.
+>!I get that it's a story driven game, but there's so much talk no jutsu in act 3 compared to 1 and 2. I've finished the game before but during my second playthrough and after building all party members with act2 "end game" items, all my excitement in trying out the new builds disappeared after imagining all the dialogue I have to go through for each fight.
 
-I also get it's not that kinda game but I just need motivation.
+I also get it's not that kinda game but I just need motivation.!<
 
 **Analysis:** The model predicts this post with label advice when it should be experience. The model might get confused on the title "Need motivation", but the actual content is the poster expressing their thoughts and emotions, not seeking for advice. It might have to do with boundary definition distinctions.
 
@@ -298,7 +298,7 @@ I also get it's not that kinda game but I just need motivation.
 
 **Text:** Tactical Moonrise tower
 
-Doing tactical run as my first playthrough, game's much more fair compared to other bs crpgs can be on harder difficulties (looking at you pathfinder...) i fucked up and got "selunite" shadowheart before doing moonrise and all the harpers + jaheira (since i didnt want her in my party) just get obliterated at that first fight lol. i finally gave and jumped in behind the reinforcements on the rafters and killed all of the enemies by sniping them. but good god not having an option that says something to the effect of "go away harper fodder" is sad lol.
+>!Doing tactical run as my first playthrough, game's much more fair compared to other bs crpgs can be on harder difficulties (looking at you pathfinder...) i fucked up and got "selunite" shadowheart before doing moonrise and all the harpers + jaheira (since i didnt want her in my party) just get obliterated at that first fight lol. i finally gave and jumped in behind the reinforcements on the rafters and killed all of the enemies by sniping them. but good god not having an option that says something to the effect of "go away harper fodder" is sad lol.!<
 
 **Analysis:** The model predicts this post with label advice when it should be experience. The model might get confused because the poster pointed out a problem they are facing "got "selunite" shadowheart before doing moonrise", but the actual content is not to seek for advice, but to share experience. The issue might be related to boundary definition distinctions.
 
