@@ -339,4 +339,4 @@ One way the spec helped me is to identify what kind of posts should be used duri
 
 I used AI to conduct label stress testing before collecting data, as well as during the data collection process, used AI to pre-label a batch of examples before reviewing them myself.
 
-Reference: [Model Training][https://colab.research.google.com/drive/1qAguQd5p3lZd8VH6Ncv4UTcu8S0MHa3U]
+Reference: [Model Training](https://colab.research.google.com/drive/1qAguQd5p3lZd8VH6Ncv4UTcu8S0MHa3U)
